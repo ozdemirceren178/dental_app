@@ -45,9 +45,12 @@ git clone https://github.com/ozdemirceren178/dental_app.git
 
 ## 🎯 Project Purpose
 
-   <img width="480"  alt="image" src="https://github.com/user-attachments/assets/0a14d8bc-33d2-4ac8-9c31-93375bb70907" />
-   <img width="480"  alt="image" src="https://github.com/user-attachments/assets/fd4edece-27e9-4478-94aa-525140025343" />
-
-
 The purpose of this project is to gain practical experience in **C# desktop application development, Windows Forms, and database management with Microsoft SQL Server**.
+
+
+   <img width="600"  alt="image" src="https://github.com/user-attachments/assets/1bf888be-427c-4739-9af8-c005651bf625" />
+   <img width="600"  alt="image" src="https://github.com/user-attachments/assets/5e40b104-1423-4561-8a19-e476a0a8d0ac" />
+   <img width="600" alt="image" src="https://github.com/user-attachments/assets/b67d8eb1-f61e-48bf-ac15-371c2f4a23d6" />
+
+
 
